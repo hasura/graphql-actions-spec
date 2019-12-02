@@ -1,4 +1,4 @@
-To build the spec. Run
+To build the spec, run:
 
 ```
 npm install -g nodemon spec-md
